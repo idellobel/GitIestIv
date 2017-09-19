@@ -24,5 +24,11 @@ namespace GitTestIv
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            lbBericht.Items.Add("Welkom");
+            lbBericht.Items.Add("Welcome");
+        }
     }
 }
