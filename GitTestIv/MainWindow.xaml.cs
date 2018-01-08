@@ -30,6 +30,7 @@ namespace GitTestIv
             lbBericht.Items.Add("Welkom");
             lbBericht.Items.Add("Welcome");
             lbBericht.Items.Add("Bienvenue");
+            lbBericht.Items.Add("Hallo");
         }
     }
 }
